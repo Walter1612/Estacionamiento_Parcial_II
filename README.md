@@ -24,7 +24,7 @@
 
 ## Ejecutar en IntelliJ
 
-1. Abra la carpeta `estacionamiento-parcial-II-nivel-clase`.
+1. Abra la carpeta `estacionamiento-parcial-II`.
 2. Confíe en el proyecto y permita que Maven cargue la dependencia de PostgreSQL.
 3. Abra `src/main/java/gt/edu/parqueo/Main.java`.
 4. Ejecute `Main.main()`.
